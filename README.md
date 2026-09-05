@@ -17,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Arjun-ittaboina/mysql/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1693-daily-leads-and-partners](https://github.com/Arjun-ittaboina/mysql/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Arjun-ittaboina/mysql/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Arjun-ittaboina/mysql/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
